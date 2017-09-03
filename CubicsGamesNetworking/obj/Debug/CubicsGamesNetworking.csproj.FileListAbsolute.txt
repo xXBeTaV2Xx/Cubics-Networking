@@ -1,0 +1,12 @@
+C:\Users\BeTaV2\documents\visual studio 2017\Projects\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.csprojResolveAssemblyReference.cache
+C:\Users\BeTaV2\documents\visual studio 2017\Projects\Cubix_Servers\CubicsGamesNetworking\bin\Debug\CubicsGamesNetworking.dll
+C:\Users\BeTaV2\documents\visual studio 2017\Projects\Cubix_Servers\CubicsGamesNetworking\bin\Debug\CubicsGamesNetworking.pdb
+C:\Users\BeTaV2\documents\visual studio 2017\Projects\Cubix_Servers\CubicsGamesNetworking\bin\Debug\protobuf-net.dll
+C:\Users\BeTaV2\documents\visual studio 2017\Projects\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.dll
+C:\Users\BeTaV2\documents\visual studio 2017\Projects\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.pdb
+C:\Users\BeTaV2\Dropbox\Cubix_Servers\CubicsGamesNetworking\bin\Debug\CubicsGamesNetworking.dll
+C:\Users\BeTaV2\Dropbox\Cubix_Servers\CubicsGamesNetworking\bin\Debug\CubicsGamesNetworking.pdb
+C:\Users\BeTaV2\Dropbox\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.csprojResolveAssemblyReference.cache
+C:\Users\BeTaV2\Dropbox\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.csproj.CoreCompileInputs.cache
+C:\Users\BeTaV2\Dropbox\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.dll
+C:\Users\BeTaV2\Dropbox\Cubix_Servers\CubicsGamesNetworking\obj\Debug\CubicsGamesNetworking.pdb
